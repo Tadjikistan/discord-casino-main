@@ -54,7 +54,7 @@ return (
 
 
             pointerProps={
-            {src: line.toString('base64'), style: {width: '2px', height: '130px', transform: '', rotate: '0deg', top:
+            {src: line.toString(), style: {width: '2px', height: '130px', transform: '', rotate: '0deg', top:
             '77%', right: '50%'}}
             // {src: `${line}`}
             }
