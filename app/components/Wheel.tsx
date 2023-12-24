@@ -37,6 +37,7 @@ if (!mustSpin) {
 const newPrizeNumber = Math.floor(Math.random() * data.length);
 setPrizeNumber(newPrizeNumber);
 setMustSpin(true);
+
 }
 }
 
